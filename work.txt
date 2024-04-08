@@ -3,3 +3,4 @@ create tarik_master_pagina
 create tarik_pagina
 create page dashboard
 creat page login
+create page menu
